@@ -1,0 +1,13 @@
+* text=auto
+
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+*.jpg binary
+*.png binary
+*.pdf binary
+*.pth binary
+*.npy binary
